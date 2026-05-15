@@ -271,12 +271,12 @@ ai_invoice_generator
 
 # 👨‍💻 Author
 
-**Pushpak Ganganmale**
+**Atharva Dindore**
 
 GitHub  
-https://github.com/PushpakGanganmale
+https://github.com/atharva-di-7070
 
 LinkedIn  
-https://www.linkedin.com/in/pushpak-ganganmale-187814219/
+https://www.linkedin.com/in/atharva-dindore-853bb828a/?skipRedirect=true
 
 ---
